@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 [![Resume Badge](https://img.shields.io/badge/Resume-4F0599?style=flat-square&logo=RSS&link=https://github.com/BAEKJungHo/resume)](https://github.com/BAEKJungHo/resume)
-[![Stack Overflow Badge](http://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=Stack Overflow&link=https://stackoverflow.com/users/13877818/weave)](https://stackoverflow.com/users/13877818/weave)
+[![Stack Overflow Badge](http://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=StackOverflow&link=https://stackoverflow.com/users/13877818/weave)](https://stackoverflow.com/users/13877818/weave)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/webeveloper)](https://medium.com/webeveloper)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/?trk=onboarding-landing)](https://www.linkedin.com/feed/?trk=onboarding-landing)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_SnNdAMPi_J79vFL7rlrvQ)](https://www.youtube.com/channel/UC_SnNdAMPi_J79vFL7rlrvQ)
