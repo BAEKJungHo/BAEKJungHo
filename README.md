@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 - DesignPattern 
 - Refacotring
 
+## Resume
+[![Resume Badge](https://img.shields.io/badge/Resume-4F0599?style=flat-square&logo=Resume&link=https://github.com/BAEKJungHo/resume)](https://github.com/BAEKJungHo/resume)
+
 <div align=center>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/webeveloper)](https://medium.com/webeveloper)
