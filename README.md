@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BAEKJungHo/hit-counter)](https://hits.seeyoufarm.com) 
+	
+  </div>
   
     [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://baekjungho.github.io/)](https://baekjungho.github.io/)
 	
@@ -29,5 +31,3 @@ Here are some ideas to get you started:
 	
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qjxjfld13@gmail.com)](mailto:qjxjfld13@gmail.com)
-	
-  </div>
