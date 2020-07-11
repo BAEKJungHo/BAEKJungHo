@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 </div>
 
-## BE Developer
+## 🔥 BE Developer
 
 - Birth : 1994.05.02
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
 
-## Interest
+## ⭐ Interest
 
 - Clean Code
 - Clean Architecture
