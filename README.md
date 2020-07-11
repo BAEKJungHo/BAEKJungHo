@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Refacotring
 
 ## Resume
-[![Resume Badge](https://img.shields.io/badge/Resume-4F0599?style=flat-square&logo=Resume&link=https://github.com/BAEKJungHo/resume)](https://github.com/BAEKJungHo/resume)
+[![Resume Badge](https://img.shields.io/badge/Mega-4F0599?style=flat-square&logo=Resume&link=https://github.com/BAEKJungHo/resume)](https://github.com/BAEKJungHo/resume)
 
 <div align=center>
 	
