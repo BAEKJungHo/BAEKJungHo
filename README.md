@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BAEKJungHo/hit-counter)](https://hits.seeyoufarm.com) 
-
-</div>
-
 ## 🔥 BE Developer
 
 - Birth : 1994.05.02
