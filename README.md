@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Clean Architecture
 - Algorithm
 - DesignPattern 
-- Refacotring
+- Refactoring
 
 <div align=center>
 
