@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - Clean Code
 - Clean Architecture
+- Data Structure
 - Algorithm
 - DesignPattern 
 - Refactoring
