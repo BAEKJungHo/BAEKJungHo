@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ## 🔥 BE Developer
 
-- Birth : 1994.05.02
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
 
