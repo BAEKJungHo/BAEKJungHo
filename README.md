@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p> <img src="https://komarev.com/ghpvc/?username=BAEKJungHo" alt="hedythedev" /> </p>
+
 ## 🔥 BE Developer
 
 Come to [My GithHub Blog](https://baekjungho.github.io/)
