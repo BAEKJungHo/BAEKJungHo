@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔥 BE Developer
 
-Come to [My GithHub Blog](https://baekjungho.github.io/)
+Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https://medium.com/webeveloper)
 
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
