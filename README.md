@@ -22,6 +22,8 @@ Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https:/
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
 
+<img src="https://media.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif" width="400"> 
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=bear" width="440"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAEKJungHo&layout=compact&theme=bear" alt="languages" height="173">
