@@ -21,7 +21,7 @@ Come to [My GithHub Blog](https://baekjungho.github.io/)
 - Effort never betrays.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=midnight-purple" width="440"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=midnight-purple" width="460"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAEKJungHo&layout=compact&theme=midnight-purple" alt="languages" height="173">
 </p>
 
