@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 🔥 BE Developer
 
+[Show Resume](https://github.com/BAEKJungHo/resume)
+
 Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https://medium.com/webeveloper)
 
 - Developer who is trying to become a clean coder.
@@ -25,7 +27,6 @@ Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https:/
 _This is my side project !!_
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=kwc&theme=graywhite)](https://github.com/BAEKJungHo/kwc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=resume&theme=graywhite)](https://github.com/BAEKJungHo/resume)
 
 <img src="https://media.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif" width="400"> 
 
