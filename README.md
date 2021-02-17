@@ -24,7 +24,7 @@ Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https:/
 
 _This is my side project !!_
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=kwc)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=kwc&theme=solarized-light)](https://github.com/BAEKJungHo/kwc)
 
 <img src="https://media.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif" width="400"> 
 
