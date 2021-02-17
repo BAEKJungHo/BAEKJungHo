@@ -24,10 +24,8 @@ Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https:/
 
 _This is my side project !!_
 
-<p align="left">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=kwc&theme=graywhite)](https://github.com/BAEKJungHo/kwc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAEKJungHo&repo=resume&theme=graywhite)](https://github.com/BAEKJungHo/resume)
-</p>
 
 <img src="https://media.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif" width="400"> 
 
