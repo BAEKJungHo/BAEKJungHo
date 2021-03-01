@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [Show Resume](https://github.com/BAEKJungHo/resume)
 
-Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https://medium.com/webeveloper)
+Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https://webdevtechblog.com)
 
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
