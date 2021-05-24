@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## 🔥 BE Developer
 
-[Show Resume](https://github.com/BAEKJungHo/resume)
+[Show Resume Ver1](https://github.com/BAEKJungHo/resume) & [Show Resume Ver2](https://baekjungho.github.io/)
 
-Come to My [GithHub Blog](https://baekjungho.github.io/) & [Medium Blog](https://webdevtechblog.com)
+Come to My [Medium Blog](https://webdevtechblog.com)
 
 - Developer who is trying to become a clean coder.
 - Effort never betrays.
