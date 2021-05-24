@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🔥 BE Developer
 
-[Show Resume Ver1](https://github.com/BAEKJungHo/resume) & [Show Resume Ver2](https://baekjungho.github.io/)
+[Show Resume](https://baekjungho.github.io)
 
 Come to My [Medium Blog](https://webdevtechblog.com)
 
