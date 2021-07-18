@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔥 BE Developer
+## Clean Coder
 
 Come to My [Medium Blog](https://webdevtechblog.com)
 
