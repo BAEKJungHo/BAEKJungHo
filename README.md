@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Clean Coder
-
 Come to My [Medium Blog](https://webdevtechblog.com)
 
 _Developer who is trying to become a clean coder._
