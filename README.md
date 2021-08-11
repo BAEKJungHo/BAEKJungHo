@@ -19,7 +19,5 @@ _Developer who is trying to become a clean coder._
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=blue-green" width="440"/> 
-  <strong>Studying</strong>
-    - DDD
 </p>
 
