@@ -1,4 +1,4 @@
-[_Developer who is trying to become a clean coder._](https://webdevtechblog.com)
+[_Developer who is trying to become a clean coder._](https://github.com/BAEKJungHo/clean-programming)
 
 [If you are looking for a way to practice writing JPA and Test Code, pay attention here.](https://github.com/BAEKJungHo/jtcwp)
 
