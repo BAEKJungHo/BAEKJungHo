@@ -9,8 +9,6 @@
 - [Refactorings](https://github.com/BAEKJungHo/designpattern/tree/master/refactorings)
 - [Algorithms](https://github.com/BAEKJungHo/algorithms)
 
-⭐ [_Resume._](https://baekjh.notion.site/b6648a29fbbc47af9e87826a3238ef32)
-
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=outrun" width="450"/> 
 </p>
