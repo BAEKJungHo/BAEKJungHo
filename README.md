@@ -13,3 +13,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&show_icons=true&theme=outrun" width="450"/> 
 </p>
 
+### 🛠 Stacks
+
+<div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Java&logoColor=white">
+</div>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+</div>
