@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotest-12133F?style=flat-square&logo=Kotlin&logoColor=blue">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
 </div>
 <div>
