@@ -59,7 +59,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   
 
 <h3 align="center">
-    <span> <h2>Stats and Graph⚡</h2> </span>   
+    <span> <h2>Stats⚡</h2> </span>   
 </h3>
    
    
