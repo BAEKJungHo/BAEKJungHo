@@ -7,7 +7,7 @@ A bit about Myself, I am <b>Jungho BAEK.</b> pursuing my I have experience in a 
 
 <h3 align="center"> Passionate Backend Engineer | Interested in DDD </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BAEKJungHo&label=Profile%20views&color=6805D3&style=flat" alt="BAEKJungHo" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BAEKJungHo&label=Profile%20views&color=6805D3&style=flat" alt="BAEKJungHo" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -53,37 +53,21 @@ I believe in implementing the knowledge which you have. Projects play a major ro
  <h1 align="center">Let's Get Connected 📮</h1>
 
 <div align="center">
-
-<a  href="https://www.linkedin.com/in/jungho-baek-25541a1b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:qjxjfld13@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   </a>
-
-   
-   
+    <a  href="https://www.linkedin.com/in/jungho-baek-25541a1b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:qjxjfld13@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
 </div>
   
 
-   <div align="center">
-
-  <span> <h2>Stats and Graph⚡</h2> </span>
-   
- </div>
+<h3 align="center">
+    <span> <h2>Stats and Graph⚡</h2> </span>   
+</h3>
    
    
 <table>
   <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BAEKJungHo&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BAEKJungHo&theme=dark" alt="BAEKJungHo" /></td>
   </tr>
 </table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BAEKJungHo&theme=dark" alt="BAEKJungHo" /></p>
-  </div>
-
- [![BAEKJungHo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BAEKJungHo&theme=xcode)](https://git.io/BAEKJungHo)
-   
-   
 
 [![GitHub followers](https://img.shields.io/github/followers/BAEKJungHo.svg?style=social&label=Follow)](https://github.com/BAEKJungHo?tab=followers)
