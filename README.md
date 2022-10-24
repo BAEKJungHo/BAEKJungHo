@@ -51,7 +51,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Expedia](https://github.com/cIonecoder/expedia)     | Portfolio repository. Tech: Java, Kotlin, DDD, TDD, ATDD, gRPC, Kafka, Spring Boot, Spring Security, Gradle Multi Module, GitHub Actions, K6, Grafana, InfluxDB
-| [Project Alpha](https://github.com/asterlsker/project-alpha)   |Side Project with colleagues at work 
+| [Housepit](https://github.com/asterlsker/project-alpha)   |Side Project with colleagues at work 
 | [Kafka Study](https://github.com/asterlsker/kafka)   |Kafka Study with colleagues at work     
 | [Computer Science](https://github.com/NKLCWDT/cs)     | Computer Science Study 
 | [Algorithms](https://github.com/NKLCWDT/algorithms)     | Algorithms Study
