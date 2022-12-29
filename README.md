@@ -1,4 +1,4 @@
-<h1 align="center" ><a href="https://baekjungho.github.io/wiki/cleancode/cleancode-guide/" target="_blank"> Developer who is trying to become a clean coder </a></h1>
+<h1 align="center">Whether it's a document or code, it should be easy to read</h1>
 <a href="https://makers.appwrite.io/BAEKJungHo">
     <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
 </a>
