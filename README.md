@@ -3,9 +3,9 @@
     <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=BAEKJungHo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
 </a>
 
-A bit about Myself, I am <b>Jungho BAEK.</b> pursuing my I have experience in a <b>reservation</b> solution startup. Now dealing with the <b>autonomous mobility</b> domain. <b>Steady is a talent</b>⚡
+A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who is not dependent on specific skills. <b>Steady is a talent</b>⚡
 
-<h3 align="center"> Passionate Backend Engineer | Interested in DDD </h3>
+<h3 align="center"> Interested in DDD, Cloud Native </h3>
 
 <h3>
     <p align="center">
@@ -15,9 +15,8 @@ A bit about Myself, I am <b>Jungho BAEK.</b> pursuing my I have experience in a 
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
-   
-I have learned server-development and having knowledge of Java, Kotlin and Javascript. I have experience in a reservation, order, payment. Now dealing with autonomous mobility. <b>Tech</b>: Computer Science, MySQL, PostgreSQL, MongoDB, Spring Data JPA, Spring Security, Spring Batch, Redis, Concurrency experience, AWS Lambda, AWS API gateway, AWS Cloud Watch, Datadog, Whatap, K6, InfluxDB, Grafana, Kafka, Typescript, NodeJs, Firebase, Docker, ArgoCD, Kubernetes, GitLab Actions, GitHub Actons, CI/CD, Confluence, JIRA.<br>
- <b>Main Languages: Java, Kotlin</b>
+ 
+ <b>Main Languages: Java, Kotlin</b> with <b>Framework: Spring</b>
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-D00000.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -54,9 +53,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Expedia](https://github.com/cIonecoder/expedia)     | Portfolio repository. Tech: Java, Kotlin, DDD, TDD, ATDD, gRPC, Kafka, Spring Boot, Spring Security, Gradle Multi Module, GitHub Actions, K6, Grafana, InfluxDB
-| [Housepit](https://github.com/asterlsker/project-alpha)   |Side Project with colleagues at work 
-| [Kafka Study](https://github.com/asterlsker/kafka)   |Kafka Study with colleagues at work     
+| [Expedia](https://github.com/cIonecoder/expedia)     | Tech: Java, Kotlin, DDD, ATDD, Spring Boot, Gradle Multi Module, Docker
+| [Housepit](https://github.com/asterlsker/project-alpha)   | Tech: Kotlin, Spring Boot, Gradle Multi Module, Docker, gRPC
+| [Kafka Study](https://github.com/asterlsker/kafka)   | Kafka Study with colleagues at work     
 | [Computer Science](https://github.com/NKLCWDT/cs)     | Computer Science Study 
 | [Algorithms](https://github.com/NKLCWDT/algorithms)     | Algorithms Study
 
