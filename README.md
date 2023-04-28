@@ -58,10 +58,3 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [Kafka Study](https://github.com/asterlsker/kafka)   | Kafka Study with colleagues at work     
 | [Computer Science](https://github.com/NKLCWDT/cs)     | Computer Science Study 
 | [Algorithms](https://github.com/NKLCWDT/algorithms)     | Algorithms Study
-
- <h1 align="center">Let's Get Connected 📮</h1>
-
-<div align="center">
-    <a  href="https://www.linkedin.com/in/jungho-baek-25541a1b2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:qjxjfld13@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   
-</div>
