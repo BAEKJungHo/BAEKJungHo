@@ -16,11 +16,12 @@ A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who
 
 <h1>Technical Skills</h1>
  
- <b>Main Languages: Java, Kotlin</b> with <b>Framework: Spring</b>
+ <b>Main Languages: Java, Kotlin, Go</b> with <b>Framework: Spring</b>
 
 <p align="left"> 
  <img alt="Java" src="https://img.shields.io/badge/java-D00000.svg?&style=for-the-badge&logo=java&logoColor=white" />
  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ <img alt="Go" src="https://img.shields.io/badge/go-6495ED.svg?&style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 
