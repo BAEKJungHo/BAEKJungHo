@@ -7,12 +7,7 @@ A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who
 
 <h3 align="center"> Interested in Distributed Systems, Cloud Native </h3>
 
-<h3>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=BAEKJungHo&label=Profile%20views&color=6805D3&style=flat" alt="BAEKJungHo" />
-    </p>
-</h3>
-   <div align="left">
+<div align="left">
 
 <h1>Technical Skills</h1>
  
