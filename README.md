@@ -5,7 +5,7 @@
 
 A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who is not dependent on specific skills. <b>Steady is a talent</b>⚡
 
-<h3 align="center"> Interested in Distributed Systems, Cloud Native </h3>
+<h3 align="center"> Interested in Connected Services </h3>
 
 <div align="left">
 
