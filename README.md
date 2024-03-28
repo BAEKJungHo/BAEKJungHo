@@ -26,7 +26,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Service Name      | Description | 
 | :---:        |    :----   |  
-| [Trunkr](https://github.com/trunkr)     | Growth platform through review and sharing (coming soon) |
+| [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing |
 
 <h1 align="left">Projects</h1>
 
