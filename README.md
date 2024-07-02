@@ -28,11 +28,3 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing |
 
-<h1 align="left">Projects</h1>
-
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Expedia](https://github.com/cIonecoder/expedia)     | Tech: Java, Kotlin, DDD, ATDD, Spring Boot, Gradle Multi Module, Docker
-| [Housepit](https://github.com/asterlsker/project-alpha)   | Tech: Kotlin, Spring Boot, Gradle Multi Module, Docker, gRPC
-| [Kafka](https://github.com/asterlsker/kafka)   | Kafka Study with colleagues at work
-| [Computer Science](https://github.com/NKLCWDT/cs)   | CS, Algorithms Study
