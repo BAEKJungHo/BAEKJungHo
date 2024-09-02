@@ -3,8 +3,6 @@
 
 A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who is not dependent on specific skills. <b>Steady is a talent</b>⚡
 
-<h3 align="center"> Connected Service Engineer </h3>
-
 <div align="left">
 
 <h1>Technical Skills</h1>
