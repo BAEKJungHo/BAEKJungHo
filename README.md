@@ -15,9 +15,6 @@ A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who
  <img alt="Go" src="https://img.shields.io/badge/go-6495ED.svg?&style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
-
 <h1 align="left">Services</h1>
 
 | Service Name      | Description | 
