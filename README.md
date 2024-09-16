@@ -19,5 +19,5 @@ A bit about Myself, I am <b>Jungho BAEK.</b>  want to be a Flexible Engineer who
 
 | Service Name      | Description | 
 | :---:        |    :----   |  
-| [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing |
+| [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing with AI |
 
